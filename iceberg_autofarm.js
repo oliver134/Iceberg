@@ -6,7 +6,7 @@
 // @version     1.0
 // @description  
 // @author      Emin M
-// @icon        https://github.com/oliver134/Iceberg/blob/main/iceberg.png
+// @icon        https://raw.githubusercontent.com/oliver134/Iceberg/main/iceberg.png
 // @downloadURL
 // @updateURL
 // @homepage     
